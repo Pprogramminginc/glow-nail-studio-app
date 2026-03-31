@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/97a3f7b6-b07d-48e8-bf8b-aa63e6825ce1
 A quick walkthrough of the booking flow, service selection, and owner dashboard.
 
 
-A modern Flutter-based booking app that allows clients to schedule services while giving business owners full control over appointments and earnings.
+Modern Flutter-based booking app that allows clients to schedule services while giving business owners full control over appointments and earnings.
 
 This app allows customers to easily browse services, book appointments, and manage their bookings, while giving business owners a clean dashboard to track appointments and earnings.
 
