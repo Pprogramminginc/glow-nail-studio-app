@@ -1,17 +1,18 @@
-# Glow Nail Studio App 💅
+# Glow Nail Studio App 
 
-## 🎥 Demo
+## 🎥 Live App Demo
 
 https://github.com/user-attachments/assets/97a3f7b6-b07d-48e8-bf8b-aa63e6825ce1
+A quick walkthrough of the booking flow, service selection, and owner dashboard.
 
 
-A modern Flutter-based mobile booking app designed for nail technicians and beauty businesses.
+A modern Flutter-based booking app that allows clients to schedule services while giving business owners full control over appointments and earnings.
 
 This app allows customers to easily browse services, book appointments, and manage their bookings, while giving business owners a clean dashboard to track appointments and earnings.
 
 ---
 
-## ✨ Features
+## Features
 
 - Browse nail services with detailed descriptions
 - Add multiple services to cart
@@ -22,9 +23,16 @@ This app allows customers to easily browse services, book appointments, and mana
 - Amount collected tracking system
 - Clean, modern UI/UX design
 
+- ## What I Learned
+
+- State management for handling bookings and cart flow
+- Designing clean, user-friendly UI in Flutter
+- Structuring a scalable mobile app architecture
+- Managing real-world booking logic (appointments, cancellations, tracking)
+
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Flutter (Dart)
 - Material UI
